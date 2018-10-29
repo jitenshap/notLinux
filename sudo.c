@@ -3,6 +3,6 @@
 
 int main(void)
 {
-	printf("Linux‚¶‚á‚Ë[‚¼ƒ{ƒP");
+	printf("Linuxã˜ã‚ƒã­ãƒ¼ããƒœã‚±");
 	return 0;
 }
