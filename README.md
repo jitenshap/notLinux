@@ -1,0 +1,2 @@
+# notLinux
+Linuxじゃねーぞと教える
